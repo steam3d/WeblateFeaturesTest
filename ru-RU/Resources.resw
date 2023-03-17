@@ -236,7 +236,4 @@
   <data name="Settings_App_Setting_Common_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
     <value>Перезапустить</value>
   </data>
-  <data name="Search_TTBtn_Next" xml:space="preserve">
-    <value>Next</value>
-  </data>
 </root>
