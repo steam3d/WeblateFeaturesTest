@@ -112,9 +112,6 @@
   <data name="Settings_LanguageOptions_SystemLanguage.Text" xml:space="preserve">
     <value>Использовать язык системы</value>
   </data>
-  <data name="HotkeyBox_Input.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Начните с Win, Shift, Alt или Ctrl клавиш</value>
-  </data>
   <data name="Search_SearchBox_Placeholder" xml:space="preserve">
     <value>Перевести с {0} на {1}</value>
   </data>
@@ -186,12 +183,6 @@
   </data>
   <data name="Settings_App_Setting_ResetSettings_Button_Flyout_ResetMessage.Text" xml:space="preserve">
     <value>Все настройки будут сброшены. Вы хотите продолжить?</value>
-  </data>
-  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
-    <value>Введите сочетание клавиш</value>
-  </data>
-  <data name="HotkeyBox_Button_Remove.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Очистить сочетание</value>
   </data>
   <data name="Taskbar_MenuFlyout_Exit.Text" xml:space="preserve">
     <value>Выход</value>
