@@ -244,15 +244,6 @@
   <data name="Settings_Support_Setting_Weblate.Header" xml:space="preserve">
     <value>Translate application</value>
   </data>
-  <data name="Search_TTBtn_Finish" xml:space="preserve">
-    <value>Got it</value>
-  </data>
-  <data name="Search_TTBtn_Next" xml:space="preserve">
-    <value>Next</value>
-  </data>
-  <data name="Search_TTBtn_Settings" xml:space="preserve">
-    <value>Settings</value>
-  </data>
   <data name="Search_TeachingTip_OpenSettings.Subtitle" xml:space="preserve">
     <value>To configure the translation language, appearance and keyboard shortcuts, right-click on the tray icon and select «{0}» or use the {1} shortcut while in the translation window</value>
     <comment>{0} will be replaced on shurtcut</comment>
