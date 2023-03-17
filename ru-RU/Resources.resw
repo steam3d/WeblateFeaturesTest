@@ -139,14 +139,8 @@
   <data name="Settings_Support_Setting_Weblate.Header" xml:space="preserve">
     <value>Перевести приложения</value>
   </data>
-  <data name="Search_TeachingTip_SwitchLanguage.Subtitle" xml:space="preserve">
-    <value>Для переключения языка, переключите текущую раскладку клавиатуры</value>
-  </data>
   <data name="Search_TeachingTip_TranslationResult.Subtitle" xml:space="preserve">
     <value>Результаты перевода можно выделять и копировать</value>
-  </data>
-  <data name="Search_TeachingTip_Welcome.Title" xml:space="preserve">
-    <value>Добро пожаловать в MagicTranslate</value>
   </data>
   <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
     <value>Закрыть</value>
@@ -196,10 +190,6 @@
   </data>
   <data name="Settings_Support_Setting_Weblate.Description" xml:space="preserve">
     <value>Переводите, редактируйте или добавляйте новые языки</value>
-  </data>
-  <data name="Search_TeachingTip_OpenSettings.Subtitle" xml:space="preserve">
-    <value>Для настройки языка перевода, внешнего вида и сочетания клавиш, нажмите правой кнопкой мыши по значку в трее и выберите «{0}» или воспользуйтесь сочетанием {1} находясь в окне с переводом</value>
-    <comment>{0} will be replaced on shurtcut</comment>
   </data>
   <data name="Search_TeachingTip_Welcome.Subtitle" xml:space="preserve">
     <value>Начать перевод можно открыв приложение, дважды щелкнув по иконке в трее или нажав горячую клавишу {0}</value>
