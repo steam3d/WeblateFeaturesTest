@@ -142,14 +142,8 @@
   <data name="Settings_Support_Setting_Weblate.Header" xml:space="preserve">
     <value>Перевести приложения</value>
   </data>
-  <data name="Search_TeachingTip_Buttons_Finish" xml:space="preserve">
-    <value>Понятно</value>
-  </data>
   <data name="Search_TeachingTip_Buttons_Next" xml:space="preserve">
     <value>Далее</value>
-  </data>
-  <data name="Search_TeachingTip_Buttons_Settings" xml:space="preserve">
-    <value>Настройки</value>
   </data>
   <data name="Search_TeachingTip_SwitchLanguage.Subtitle" xml:space="preserve">
     <value>Для переключения языка, переключите текущую раскладку клавиатуры</value>
