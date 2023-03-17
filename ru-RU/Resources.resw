@@ -139,9 +139,6 @@
   <data name="Settings_Support_Setting_Weblate.Header" xml:space="preserve">
     <value>Перевести приложения</value>
   </data>
-  <data name="Search_TeachingTip_TranslationResult.Subtitle" xml:space="preserve">
-    <value>Результаты перевода можно выделять и копировать</value>
-  </data>
   <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
     <value>Закрыть</value>
   </data>
@@ -190,10 +187,6 @@
   </data>
   <data name="Settings_Support_Setting_Weblate.Description" xml:space="preserve">
     <value>Переводите, редактируйте или добавляйте новые языки</value>
-  </data>
-  <data name="Search_TeachingTip_Welcome.Subtitle" xml:space="preserve">
-    <value>Начать перевод можно открыв приложение, дважды щелкнув по иконке в трее или нажав горячую клавишу {0}</value>
-    <comment>{0} will be replaced on shurtcut</comment>
   </data>
   <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
     <value>Автозагрузка отключена групповой политикой или не поддерживается на данном устройстве.</value>
